@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ceikokitkat.github.io/posts/</loc>
-    <lastmod>2023-04-28T00:29:29+03:00</lastmod>
+    <loc>https://ceikokitkat.github.io/posts/testinis2/</loc>
+    <lastmod>2023-04-28T01:15:30+03:00</lastmod>
   </url><url>
-    <loc>https://ceikokitkat.github.io/posts/testinis/</loc>
-    <lastmod>2023-04-28T00:29:29+03:00</lastmod>
+    <loc>https://ceikokitkat.github.io/posts/</loc>
+    <lastmod>2023-04-28T01:15:30+03:00</lastmod>
   </url><url>
     <loc>https://ceikokitkat.github.io/</loc>
+    <lastmod>2023-04-28T01:15:30+03:00</lastmod>
+  </url><url>
+    <loc>https://ceikokitkat.github.io/posts/testinis/</loc>
     <lastmod>2023-04-28T00:29:29+03:00</lastmod>
   </url><url>
     <loc>https://ceikokitkat.github.io/categories/</loc>
